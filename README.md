@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding!" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishratzahan6102&label=Profile%20views&color=0e75b6&style=flat" alt="ishratzahan6102" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Israt-Zahan&label=Profile%20views&color=0e75b6&style=flat" alt="Israt-Zahan" /> </p>
 
 
 - 🔭 I’m currently working on [Astor](https://phone-resell-center.web.app)
