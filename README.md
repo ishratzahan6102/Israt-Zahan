@@ -1,7 +1,9 @@
 <h1 align="center">Hi 🤗, I'm Israt Zahan</h1>
 <h3 align="center">I am a fresh graduate looking forward to capturing some worthwhile experience as a web developer as I continue learning and growing in the ever-changing automation world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Israt-Zahan&label=Profile%20views&color=0e75b6&style=flat" alt="Israt-Zahan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=
+ishratzahan6102&label=Profile%20views&color=0e75b6&style=flat" alt="
+ishratzahan6102" /> </p>
 
 
 - 🔭 I’m currently working on [Astor](https://phone-resell-center.web.app)
