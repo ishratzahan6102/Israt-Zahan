@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uQpf8cjBJwWLOf42imgBqZjmeJYM55zK/view?usp=sharing](https://drive.google.com/file/d/1uQpf8cjBJwWLOf42imgBqZjmeJYM55zK/view?usp=sharing)
 
-- ⚡ Fun fact **I believe I can sing and draw a bit. 😅**
+- ⚡ Fun fact **I believe I can sing a bit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
