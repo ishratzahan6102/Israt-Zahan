@@ -1,8 +1,7 @@
 <h1 align="center">Hi 🤗, I'm Israt Zahan</h1>
 <h3 align="center">I am a fresh graduate looking forward to capturing some worthwhile experience as a web developer as I continue learning and growing in the ever-changing automation world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=
-ishratzahan6102&label=Profile%20views&color=0e75b6&style=flat" alt="
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishratzahan6102&label=Profile%20views&color=0e75b6&style=flat" alt="
 ishratzahan6102" /> </p>
 
 
