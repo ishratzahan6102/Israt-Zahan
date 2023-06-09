@@ -3,9 +3,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=ishratzahan6102&icon=4&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [RedOnion]
+- 🔭 I’m currently working on RedOnion
 
-- 🌱 I’m currently learning **Node Js, Redux, Next Js.**
+- 🌱 I’m currently learning **making react project with vite**
 
 - 🤝 I’m looking for help with **amazing website animations and react npm packages.**
 
