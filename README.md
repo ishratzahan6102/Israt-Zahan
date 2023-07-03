@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Israt </h1>
-<h3 align="center">I am a fresh graduate looking forward to capturing some worthwhile experience as a web developer as I continue learning and growing in the ever-changing automation world.</h3>
+<h3 align="center">I recently graduated and am eager to gain some valuable experience as a web developer while I study and improve in the rapidly evolving automation industry. I'm a Flexible and diligent web developer enhancing businesses developing software objectives with project management and problem-solving abilities.
+</h3>
 
 [![](https://visitcount.itsvg.in/api?id=ishratzahan6102&icon=4&color=0)](https://visitcount.itsvg.in)
 
