@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Israt </h1>
+<h1 align="center">Hi🖐, I'm Israt </h1>
 <h3 align="center">I recently graduated and am eager to gain some valuable experience as a web developer while I study and improve in the rapidly evolving automation industry. I'm a Flexible and diligent web developer enhancing businesses developing software objectives with project management and problem-solving abilities.
 </h3>
 
