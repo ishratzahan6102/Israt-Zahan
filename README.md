@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **amazing website animations and react npm packages.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dc820.web.app](https://portfolio-dc820.web.app)
+- 👨‍💻 All of my projects are available at [https://portfolio-dc820.web.app](https://isratzahan-a2d67.web.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ishrat-zahan6](https://www.linkedin.com/in/ishrat-zahan6)
 
