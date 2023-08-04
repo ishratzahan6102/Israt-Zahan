@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ishratzahan6102@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uQpf8cjBJwWLOf42imgBqZjmeJYM55zK/view?usp=sharing](https://drive.google.com/file/d/1uQpf8cjBJwWLOf42imgBqZjmeJYM55zK/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1LiTnQMEEMJOpAVAnl9aUEEWVYFOE8mo2/view?usp=drive_link
 
 - ⚡ Fun fact **I believe I can sing a bit.**
 
