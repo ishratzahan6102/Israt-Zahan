@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on RedOnion - https://redonion-78cba.web.app/
 
-- 🌱 I’m currently learning **making react project with vite**
+- 🌱 I’m currently learning **SCSS**
 
 - 🤝 I’m looking for help with **amazing website animations and react npm packages.**
 
